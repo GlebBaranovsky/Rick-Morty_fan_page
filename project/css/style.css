@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    font-family:Bookman Old Style;
+    line-height: 1.5;
+    background: url("../img/background.jpg");
+    background-attachment: fixed;
+}
+.page {
+    overflow: hidden;
+    background-color: rgb(181, 168, 255);
+    width: 700px;
+    margin: 50px auto;
+    box-shadow: 0 5px 10px;
+    border-radius: 10px;
+
+}  
+.image {
+    display: block;
+    width: 700px;
+    border-radius: 5px;
+    
+}
+.page_title {
+    display:block;
+    width: 300px;
+    margin: 0 auto;
+}
+.text {
+    margin: 20px 20px;
+    text-align: justify;
+}
+.charachters_heading {
+    font-size: 30px;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+.rick_img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    box-shadow: 0 5px 5px;
+}
+.rick {
+    margin: 6px 6px;
+    margin-left: 20px;
+    float: left;
+    width: 120px;
+    height: 170px;
+    font-family: Comic Sans MS;
+    font-size: 18px;
+}
+.morty_img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    box-shadow: 0 5px 5px;
+}
+.morty {
+    margin: 6px 6px;
+    float: left;
+    width: 120px;
+    height: 170px;
+    font-family: Comic Sans MS;
+    font-size: 18px;
+}
+.summer_img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    box-shadow: 0 5px 5px;
+    margin-bottom: 2px;
+}
+.summer {
+    margin: 6px 6px;
+    float: left;
+    width: 120px;
+    height: 170px;
+    font-family: Comic Sans MS;
+    font-size: 17px;
+}

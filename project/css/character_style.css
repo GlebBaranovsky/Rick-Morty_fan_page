@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family:Bookman Old Style;
+    line-height: 1.5;
+    background: url("../img/background.jpg");
+    background-attachment: fixed;
+}
+.page {
+    overflow: hidden;
+    background-color: rgb(181, 168, 255);
+    width: 700px;
+    margin: 50px auto;
+    box-shadow: 0 5px 10px;
+    border-radius: 10px;
+
+}  
+.rick_photo {
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px;
+    float: right;
+    margin: 20px 0;
+}
+.page_title {
+    font-family: Comic Sans MS;
+    text-align: center;
+    font-size: 35px;   
+}
+.text {
+    text-align: justify;
+    margin: 20px 20px;
+}
